@@ -1,0 +1,6 @@
+C:\Cursos\CS\Proyect-Euler-CS-Console\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.exe
+C:\Cursos\CS\Proyect-Euler-CS-Console\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.pdb
+C:\Cursos\CS\Proyect-Euler-CS-Console\Multiples of 3 or 5\Multiples of 3 or 5\obj\x86\Debug\Multiples of 3 or 5.exe
+C:\Cursos\CS\Proyect-Euler-CS-Console\Multiples of 3 or 5\Multiples of 3 or 5\obj\x86\Debug\Multiples of 3 or 5.pdb
+C:\Cursos\CS\Proyect-Euler-CS-Console\Multiples of 3 or 5\Multiples of 3 or 5\obj\x86\Debug\Multiples of 3 or 5.csproj.AssemblyReference.cache
+C:\Cursos\CS\Proyect-Euler-CS-Console\Multiples of 3 or 5\Multiples of 3 or 5\obj\x86\Debug\Multiples of 3 or 5.csproj.CoreCompileInputs.cache
