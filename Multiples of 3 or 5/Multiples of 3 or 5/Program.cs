@@ -20,8 +20,6 @@ namespace Multiples_of_3_or_5
                     if (suma < 1000)
                     {
                         suma =suma + i;
-
-                       
                     }
                     Console.WriteLine(suma);
                 }
